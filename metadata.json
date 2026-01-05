@@ -1,0 +1,5 @@
+{
+  "name": "NeuroCut - AI Video Editor",
+  "description": "A browser-based video editor with AI capabilities. Supports trimming, merging, splitting audio, and generating content using Google Veo and Gemini TTS.",
+  "requestFramePermissions": []
+}
